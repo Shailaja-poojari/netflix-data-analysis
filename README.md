@@ -17,7 +17,12 @@ A complete Exploratory Data Analysis (EDA) of the Netflix dataset using Python.
 Netflix titles dataset from Kaggle.
 
 ## 📸 Sample Output
-![Sample Chart](images/year_trend.png)
+### Top Netflix Genres
+![Top Genres](netflix_chart.png)
+### Top Countries with
+![Top Countries](top_countries.png)
+### Content Added Over Years
+![Yearly Content Chart](netflix_years_chart.png)
 
 ## 🚀 How to Run
 - Clone the repo
